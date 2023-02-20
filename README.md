@@ -2,8 +2,10 @@
 
 Machine learning project to predict forest fire occurrences in Thailand
 
-4 Pipelines:
+6 Code Pipelines:
 1. Data Collection
 2. Data Preparation
-3. Model Training and Evaluation
-4. Model Testing
+3. Model Training
+4. Model Validation
+5. Model Testing
+6. SMOTE Validation
