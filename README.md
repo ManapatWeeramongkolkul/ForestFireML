@@ -8,4 +8,4 @@ Machine learning project to predict forest fire occurrences in Thailand
 3. Model Training
 4. Model Validation
 5. Model Testing
-6. SMOTE Validation
+6. Imbalanced Data Preprocessing Evaluation
