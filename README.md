@@ -1,4 +1,4 @@
-# Data Analytics on Forest Fire: A Case of Thailand
+# Application of Data Analytics on Forest Fire: A Case of Thailand
 
 Machine learning pipelines to predict forest fire occurrences in Thailand
 
